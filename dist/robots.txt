@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+Disallow: /admin/
+Sitemap: https://mobilityone-medical-marketplace.bronzyfinch3.chatgpt.site/sitemap.xml
